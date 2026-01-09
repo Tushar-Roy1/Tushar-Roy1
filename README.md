@@ -1,35 +1,47 @@
-# About Me
+👋 About Me
 
-Hi! 👋 I'm Tushar Roy, a passionate developer with a focus on building web applications and exploring new technologies.
+Hi! I’m Tushar Roy, a Full-Stack Web Developer with hands-on experience in MERN stack and Next.js, passionate about building scalable, high-performance web applications and continuously upgrading my skills to stay future-ready.
 
-### 👨‍💻 What I Do
+👨‍💻 What I Do
 
-- **Frontend Development:** I specialize in building responsive and dynamic user interfaces using React, Tailwind CSS, and Material-UI.
-- **Backend Development:** Experienced with Node.js, Express, and MongoDB for creating scalable backend services.
-- **Full-Stack Projects:** I work with the MERN stack to build full-fledged applications from scratch, integrating features like user authentication, file uploads, APIs, and third-party services.
-- **API Integrations:** I integrate various APIs into my projects like Google Books API, Cloudinary, Mapbox, Razorpay, and more.
+Frontend Development: Build responsive, SEO-friendly, and high-performance user interfaces using React, Next.js, Tailwind CSS, and Material-UI.
 
-### 🛠 Technologies I Use
+Backend Development: Develop secure and scalable backend services using Node.js, Express.js, and MongoDB.
 
-- **Frontend:** React, Tailwind CSS, Material-UI
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, Postman, Docker, Cloudinary
-- **API Integration:** Google OAuth, Razorpay, Mapbox
+Full-Stack Applications: Create end-to-end applications using the MERN stack and Next.js, implementing authentication, role-based access, APIs, and file handling.
 
-### 🌱 Currently Exploring
+API Integrations: Integrate third-party services such as Google OAuth, Cloudinary, Mapbox, Razorpay, and other REST APIs.
 
-- Next.js for server-side rendering and static site generation.
-- Enhancing my backend knowledge by diving deeper into microservices architecture.
-  
-### 📫 How to Reach Me
+🛠️ Technologies & Tools
 
-- **Email:** er.tusharroy@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/tushar-roy-11191b257/
-- **Portfolio:** I Will Do Later.
+Frontend: React, Next.js, Tailwind CSS, Material-UI, JavaScript (ES6+)
 
-### 🌟 Fun Facts
+Backend: Node.js, Express.js, MongoDB
 
-- I enjoy working on side projects that challenge me to learn something new.
-- I'm always eager to contribute to open-source projects.
+Tools & Platforms: Git, GitHub, Postman, Docker, Cloudinary
 
-Thanks for stopping by! Feel free to check out my work or get in touch if you'd like to collaborate! 😊
+APIs & Services: Google OAuth, Razorpay, Mapbox, REST APIs
+
+🌱 Currently Exploring
+
+Advanced Next.js features such as server-side rendering (SSR), static site generation (SSG), and API routes.
+
+Scalable backend architecture, including microservices fundamentals and performance optimization.
+
+📫 Let’s Connect
+
+Email: er.tusharroy@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/tushar-roy-11191b257/
+
+🌟 Beyond Code
+
+I enjoy working on side projects that challenge me to learn and apply new technologies.
+
+I’m open to collaboration and contributing to open-source projects.
+
+I believe in continuous learning, consistency, and building solutions that create real-world impact.
+
+🚀 Open to Opportunities
+
+I am actively seeking Frontend / Full-Stack Developer (React, Next.js, MERN) roles where I can contribute, learn, and grow in a fast-paced environment.
